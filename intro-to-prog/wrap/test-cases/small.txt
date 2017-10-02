@@ -1,0 +1,3 @@
+Like most imperative languages in the ALGOL tradition, C has facilities
+for structured programming and allows lexical variable scope and recursion,
+while a static type system prevents many unintended operations.
